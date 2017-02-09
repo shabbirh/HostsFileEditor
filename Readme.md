@@ -1,6 +1,12 @@
 # Hosts File Editor
 
-Easily edit and manage the hosts file for your Windows PC. 
+Easily edit and manage the hosts file for your Windows PC.
+
+![Main screen](http://download-codeplex.sec.s-msft.com/Download?ProjectName=hostsfileeditor&DownloadId=290948)  
+*main editor screen with archive visible on right*
+
+![Tray](http://download-codeplex.sec.s-msft.com/Download?ProjectName=hostsfileeditor&DownloadId=290949)  
+*tray icon with context menu*
 
 ## Binaries
 
@@ -8,7 +14,7 @@ Release binaries can be downloaded from [CodePlex](http://hostsfileeditor.codepl
 
 ## Build
 
-Requires Windows SDK for Windows 7 and .NET or Visual Studio 2010 or newer.  To build the installer you must have WiX Toolset 3.7+.
+Requires Visual Studio 2015 or newer.  To build the installer you must have WiX Toolset 3.7+.
 
 Run `build-release.bat` or `build-debug.bat`. 
 

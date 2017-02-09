@@ -9,3 +9,6 @@
 /setup/obj
 /src/bin
 /src/obj
+/packages
+/src/ScottLerch.snk
+/src/ScottLerch.pfx
